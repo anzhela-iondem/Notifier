@@ -1,0 +1,22 @@
+[
+  {
+    "event_type": "new_publication",
+    "body": "Dear mediator,\nThere is a new publication.\nPlease check it.",
+    "to": ""
+  },
+  {
+    "event_type": "ew_publication",
+    "body": "Dear mediator,\nThere is a new publication.\nPlease check it.",
+    "to": "angelaiondem@yahoo.com"
+  },
+  {
+    "event_type": "new_publication",
+    "body": "",
+    "to": "angelaiondem@yahoo.com"
+  },
+  {
+    "event_type": "new_publication",
+    "body": {"channel": "#notifier", "text": "Hi."},
+    "to": "angelaiondem@yahoo.com"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "event_type": "approved_publication",
+    "body": "Dear Ms./Mr.\nYour publication is approved.",
+    "to": "angelaiondem@yahoo.com"
+  },
+  {
+    "event_type": "proved_publication",
+    "body": "Dear Ms./Mr.\nYour publication is approved.",
+    "to": "angelaiondem@yahoo.com"
+  },
+  {
+    "event_type": "approved_publication",
+    "body": "",
+    "to": "angelaiondem@yahoo.com"
+  },
+  {
+    "event_type": "approved_publication",
+    "body": "Dear Ms./Mr.\nYour publication is approved.",
+    "to": "angelaiondem@yahoo"
+  },
+    {
+    "event_type": "approved_publication",
+    "body": {"channel": "#notifier", "text": "Hi."},
+    "to": "angelaiondem@yahoo.com"
+  }
+]
